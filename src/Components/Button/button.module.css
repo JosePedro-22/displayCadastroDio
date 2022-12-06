@@ -1,0 +1,31 @@
+
+.button{
+
+    background: #565656;
+    border-radius: 22px;
+    position: relative;
+
+    color: #FFFFFF;
+    padding: 2px 12px;
+    min-width: 120px;
+    width: 22rem;
+    height: 2.9rem;
+}
+
+.button:hover{
+    background: #E4105D;
+}
+
+.borderButton{
+    margin-top: 2rem;
+
+    border: 1px solid #565656;
+    border-radius: 26px;
+    height: 3.6rem;
+    width: 22.7rem;
+    padding: 0.3rem;
+}
+
+.borderButton:hover{
+    border: 1px solid #E4105D;
+}

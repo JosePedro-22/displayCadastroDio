@@ -1,4 +1,6 @@
 
 .content{
     background-color: #1E192C;
+    min-height: 100vh;
+    color: aliceblue;
 }
